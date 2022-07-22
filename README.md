@@ -9,6 +9,13 @@
 * MSB is always set in count byte, and unset in data byte
 * if the data is not repeating, the original byte is retained.
 
+### Status
+
+|Build & Unit Test|Codacy|
+|:--:|:--:|
+|[![Build - Linux](https://github.com/Bharathgopal/compression_algorithm/actions/workflows/build.yml/badge.svg)](https://github.com/Bharathgopal/compression_algorithm/actions/workflows/build.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6667e022d69f4e4090e0a62ee2fa6b78)](https://www.codacy.com/gh/Bharathgopal/compression_algorithm/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/compression_algorithm&amp;utm_campaign=Badge_Grade)|
+
+
 
 ## Build and run the Project
 ### Pre-requisites
